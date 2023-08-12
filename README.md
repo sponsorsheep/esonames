@@ -8,12 +8,16 @@ A repository dedicated to all of my sponsors: past, present and future.
 Contributions and suggestions about how to improve this project are welcome!  
 Please follow [our contribution guidelines](https://github.com/airscripts/sponsorsheep/blob/main/CONTRIBUTING.md).
 
-## Supporting
-If you want to support my work you can do it with the links below.  
+## Support
+If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
 Choose what you find more suitable for you:  
-- [Support me on GitHub](https://github.com/sponsors/airscripts)
-- [Support me via ko-fi](https://ko-fi.com/airscript)
-- [Support me via linktr.ee](https://linktr.ee/airscript)
 
-## Licensing
+<a href="https://sponsor.airscript.it" target="blank">
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
+</a>&nbsp;
+<a href="https://kofi.airscript.it" target="blank">
+  <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/kofi.svg" alt="Kofi" width="30px" />
+</a>
+
+## License
 This repository is licensed under [GPL-3.0 License](https://github.com/airscripts/sponsorsheep/blob/main/LICENSE).
